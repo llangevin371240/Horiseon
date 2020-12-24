@@ -9,7 +9,7 @@
 ## Overview of project
 
 * Create a code base that is optimized and meets
-accessabilty standards for search engines.
+accessibility standards for search engines.
 
 *  A marketing agency needs a codebase that 
 follows accessibility standards so that the 
@@ -21,7 +21,7 @@ site is optimized for search engines.
 
 * The HTML contains semantic elements.
 * Elements follow a logical structure independent of styling and positioning.
-* Images contain accessibile alt attributes.
+* Images contain accessible alt attributes.
 * Heading tags are in sequential order.
 * A concise, descriptive title.
 
@@ -48,9 +48,6 @@ organize the stylesheet.
 * Reviewed code with HTML / CSS validator.
  * ***https://validator.w3.org/***
 
-* Created repository and commited changes.
+* Created repository and committed changes.
 
 =============================================
-
-
-
