@@ -31,6 +31,8 @@ site is optimized for search engines.
 
 ## What I did
 
+----------------------------------------------
+
 * Changed / removed divs inside the body
 
 * Inserted the following semantic elements
