@@ -2,7 +2,7 @@
 
 ## Code refractor, search engine optimization
 
-![Horiseon](https://github.com/llangevin371240/Horiseon/blob/main/Develop/assets/images/hero.png)
+![Horiseon](https://github.com/llangevin371240/Horiseon/blob/main/assets/images/hero.png)
 
 ***https://llangevin371240.github.io/Horiseon/.***
 
